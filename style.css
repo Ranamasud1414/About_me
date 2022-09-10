@@ -346,7 +346,7 @@ nav .fa{
 }
 @media only screen and (max-width: 600px) {
    #header{
-    background-image:url(images/m.3.1.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(images/m.3.1.jpg);
    }
    .header-text{
     font-size: 16px;
